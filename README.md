@@ -1,5 +1,6 @@
 #waveengine
 Simple featureless basic python webbrowser made using PyQtwebengine based on Chromium
+<hr>
 Features :
 <p>1.Doesnt have any features that browsers normally have</p>
 <p>2.Not a build-from-scratch Browser (uses PyQt5 Webengine)</p>
